@@ -1,3 +1,5 @@
+[![Run sample](https://github.com/naosunnykonno/csv-normalizer-reconciler/actions/workflows/run-sample.yml/badge.svg)](https://github.com/naosunnykonno/csv-normalizer-reconciler/actions/workflows/run-sample.yml)
+
 [日本語](README.md) | [English](README.en.md)
 
 # CSV 統合・突合ツール
